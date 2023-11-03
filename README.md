@@ -26,7 +26,15 @@ pip install time
 ```
 
 <br>
- 
+
+Also, please register in **VirusTotal.com** and get the API Key and change it in line 7 of the code for the one yours :)
+
+```sh
+API_KEY="your_API_KEY"
+```
+
+<br>
+
 The last thing is to have the software of `MySQL` fully installed and configured, note that the specs of the user and password could be changed in the code to adapt it to yourself on line 12 and 13:
 
 ```sh
