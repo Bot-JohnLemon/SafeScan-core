@@ -1,6 +1,6 @@
 # SafeScan
 
-<p><img src="https://github.com/Bot-JohnLemon/SafeScan/assets/28149894/049baa99-aca0-4ec0-b141-951003ba5b82" width="300" height="400" align="right"></p>
+<p><img src="https://github.com/Bot-JohnLemon/SafeScan/assets/28149894/42de2fe7-c691-4751-bfa6-9f726b0957db" width="300" height="400" align="right"></p>
 
 SecureScan is an advanced antivirus project that leverages report management through the use of the `VirusTotal API`.
 
