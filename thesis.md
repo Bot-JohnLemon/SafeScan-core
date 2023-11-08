@@ -47,4 +47,4 @@ Development of a web and desktop application (guide):
 
 - **Desktop Version Development:**
   - Next, develop the desktop version using the selected technologies.
-  - You can use frameworks like Electron or NW.js to create cross-platform desktop applications.
+  - You can use frameworks like Electron to create cross-platform desktop applications.
