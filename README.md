@@ -2,9 +2,9 @@
 
 <p><img src="https://github.com/Bot-JohnLemon/SafeScan/assets/28149894/42de2fe7-c691-4751-bfa6-9f726b0957db" width="300" height="400" align="right"></p>
 
-SafeScan is an advanced antivirus project that leverages report management through the use of the `VirusTotal API`.
+SafeScan is an antivirus project that leverages report management through the use of the `VirusTotal API`.
 
-This sophisticated software is designed to meticulously curate and administer files for in-depth analysis, with the resultant data being securely stored within a user-centric database.
+This coded software is designed to curate and administer files for in-depth analysis, with the resultant data being securely stored within a user-centric database.
 
 Please note that this current iteration serves as an initial blueprint and will undergo a series of progressive enhancements within this repository, culminating in its ultimate and perfected version.
 
