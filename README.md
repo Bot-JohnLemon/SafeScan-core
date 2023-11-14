@@ -4,6 +4,8 @@
 
 by David & Jordi & Lin.
 
+Group 6
+
 SafeScan is an antivirus project that leverages report management through the use of the `VirusTotal API`.
 
 This coded software is designed to curate and administer files for in-depth analysis, with the resultant data being securely stored within a user-centric database.
